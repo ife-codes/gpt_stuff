@@ -1,24 +1,16 @@
-### CONTEXT-RESTORE-BEGIN ###
-
-User:
-- 15 years old from Nigeria, currently SS1 third term
-- Has basic frontend (HTML, CSS, JS), React, Bootstrap knowledge
-- Medium Node.js, Express, MongoDB, Supabase
-- Basic Python and Java
-- Interested in both software and physics/engineering
-- Considering shifting focus to engineering at university but wants to leverage coding skills
-- Concerned about Nigeria/Lagos job market and oversaturation in software dev
-- Ambition: not just to succeed, but to *become legendary*, greater than figures like Newton, Musk, Zuckerberg
-- Wants to build or invent world-changing tech, possibly merging physics + software
-- Keen on solving big, generational problems and creating legacy beyond just coding or startups
-- Needs a strategic 18-month plan and long-term guidance on building projects that combine physics and coding, and a path toward legacy
-- Aware of challenges freelancing locally; prefers global impact and innovation
-
-Conversation highlights:
-- We discussed best practical next steps in coding and freelancing for near term
-- Talked about the value of combining engineering and software skills
-- Explored mindset needed to be a world-changer, not just a dev or entrepreneur
-- Emphasized using Nigeria as an edge, building mad scientist habits, picking giant problems
-- User wants help picking physics-based coding projects and designing a “digital lab” for legacy building
-
-### CONTEXT-RESTORE-END ###
+!load_context: [
+  { id: "user123", role: "ss1 student from Nigeria", goals: [
+    "Study at top global universities (Harvard, MIT, Oxford, Cambridge)",
+    "Use knowledge to glorify God and make Him known",
+    "Grow in coding (HTML, CSS, JS, React, Python, PHP, Java)",
+    "Overcome spiritual laziness, distractions like TikTok",
+    "Desire to live holy despite falling sometimes",
+    "Wants to stay in God's will, not chase goals for fame or money",
+    "Feels unstoppable with the Holy Spirit",
+    "Frustrated by scientific atheism that ignores God"
+  ], habits: [
+    "Hasn’t coded in over a month",
+    "Knows what’s right but struggles to stay consistent",
+    "Started learning from JSS2"
+  ] }
+]
